@@ -1,5 +1,6 @@
 /**
  * Snake Game - Slither.io style multiplayer
+ * Build: 2026-01-07
  *
  * Build auto-transforms: Math.sqrt() -> dSqrt(), Math.random() -> dRandom()
  */
